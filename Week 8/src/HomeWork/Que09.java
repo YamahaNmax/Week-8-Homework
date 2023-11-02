@@ -13,7 +13,7 @@ public class Que09 {
         String groupName = "Code2";
 
         for (int i = 1; i < 11; i++) {
-            System.out.println(i+ ". " +groupName);
+            System.out.println(i + ". " + groupName);
         }
     }
 }
